@@ -1,1 +1,2 @@
-OpenWrt device tree for CMCC H3C Magic RT3002
+# H3C-Magic-R3002_OpenWrt_device_tree
+OpenWrt device tree for H3C Magic R3002
